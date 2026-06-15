@@ -1,0 +1,6 @@
+{
+  "name": "LifeMap AI",
+  "description": "Your AI-Powered Life Operating System. Plan your goals, generate intelligent roadmaps, track habits, simulate future paths, and optimize your life with AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
